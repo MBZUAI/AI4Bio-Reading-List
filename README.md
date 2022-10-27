@@ -2,7 +2,7 @@
 Must-read papers on AI for Biology
 
 
-## Protein
+## 1. Protein Level
 
 
 ### Pilot Work
@@ -12,5 +12,9 @@ Must-read papers on AI for Biology
 
 
 
+## 2. Protein Interaction Level
 
-## Cell
+
+## 3. Cell Level
+
+
