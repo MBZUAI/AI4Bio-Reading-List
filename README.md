@@ -1,5 +1,6 @@
-# BioAIPapers
-Must-read papers on AI for Biology
+# AI4Bio-Reading-List
+
+This is a AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 
 ## 1. Protein Level
