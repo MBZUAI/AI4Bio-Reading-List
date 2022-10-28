@@ -33,7 +33,7 @@ This is a AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 ## 2. Protein Interaction Level
 
-* [Protein complex prediction with AlphaFold-Multimer](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2.full.pdf). BioRxiv. Evans, R., O’Neill, M., Pritzel, A., Antropova, N., Senior, A., Green, T., ... & Hassabis, D. (2022). 
+* [Protein complex prediction with AlphaFold-Multimer](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2.full.pdf). *BioRxiv*. Evans, R., O’Neill, M., Pritzel, A., Antropova, N., Senior, A., Green, T., ... & Hassabis, D. (2022). 
 
 
 
@@ -42,6 +42,6 @@ This is a AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 * [scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data](https://www.nature.com/articles/s42256-022-00534-z#Sec2).*Nature Machine Intelligence*. Yang, F., Wang, W., Wang, F., Fang, Y., Tang, D., Huang, J., ... & Yao, J. (2022). 
 
-* Roohani, Y., Huang, K., & Leskovec, J. (2022). GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations. (bioRxiv.https://www.biorxiv.org/content/10.1101/2022.07.12.499735v2)
+* [GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations](https://www.biorxiv.org/content/10.1101/2022.07.12.499735v2). *BioRxiv*. Roohani, Y., Huang, K., & Leskovec, J. (2022). 
 
 ## 4. Others
