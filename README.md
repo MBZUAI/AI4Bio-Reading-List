@@ -31,6 +31,8 @@ This is a AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 * [Helixfold-single: Msa-free protein structure prediction by using protein language model as an alternative](https://arxiv.org/pdf/2207.13921.pdf). *ArXiv preprint*. Fang, X., Wang, F., Liu, L., He, J., Lin, D., Xiang, Y., ... & Song, L. (2022). 
 
+* [AmoebaContact and GDFold: a new pipeline for rapid prediction of protein structures] (https://arxiv.org/abs/1905.11640) *arXiv preprint arXiv:1905.11640*. Mao, W., Ding, W., & Gong, H. (2019).
+
 
 
 ### 1.3 Protein Representation Learning
