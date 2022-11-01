@@ -31,14 +31,18 @@ This is a AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 * [Helixfold-single: Msa-free protein structure prediction by using protein language model as an alternative](https://arxiv.org/pdf/2207.13921.pdf). *ArXiv preprint*. Fang, X., Wang, F., Liu, L., He, J., Lin, D., Xiang, Y., ... & Song, L. (2022). 
 
-* [AmoebaContact and GDFold: a new pipeline for rapid prediction of protein structures] (https://arxiv.org/abs/1905.11640) *arXiv preprint arXiv:1905.11640*. Mao, W., Ding, W., & Gong, H. (2019).
+* [AmoebaContact and GDFold: a new pipeline for rapid prediction of protein structures](https://arxiv.org/pdf/1905.11640.pdf). *arXiv preprint arXiv:1905.11640*. Mao, W., Ding, W., & Gong, H. (2019).
+* [Improved fragment sampling for ab initio protein structure prediction using deep neural networks](https://www.nature.com/articles/s42256-019-0075-7).*Nature Machine Intelligence*. Wang, T., Qiao, Y., Ding, W., Mao, W., Zhou, Y., & Gong, H. (2019). Improved fragment sampling for ab initio protein structure prediction using deep neural networks. Nature Machine Intelligence, 1(8), 347-355.
+
+
 
 
 
 ### 1.3 Protein Representation Learning
 
 * [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.pnas.org/doi/epdf/10.1073/pnas.2016239118). *PNAS*. Rives, A., Meier, J., Sercu, T., Goyal, S., Lin, Z., Liu, J., ... & Fergus, R. (2021). 
-
+* [Leveraging implicit knowledge in neural networks for functional dissection and engineering of proteins](https://www.nature.com/articles/s42256-019-0049-9).*Nature Machine Intelligence*. Upmeier zu Belzen, J., Bürgel, T., Holderbach, S., Bubeck, F., Adam, L., Gandor, C., ... & Eils, R. (2019). Leveraging implicit knowledge in neural networks for functional dissection and engineering of proteins. Nature Machine Intelligence, 1(5), 225-235.
+* [Protein function prediction is improved by creating synthetic feature samples with generative adversarial networks](https://www.nature.com/articles/s42256-020-0222-1). *Nature Machine Intelligence*. Wan, C., & Jones, D. T. (2020). Protein function prediction is improved by creating synthetic feature samples with generative adversarial networks. Nature Machine Intelligence, 2(9), 540-550.
 
 ## 2. Protein Interaction Level
 
@@ -52,5 +56,17 @@ This is a AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 * [scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data](https://www.nature.com/articles/s42256-022-00534-z#Sec2). *Nature Machine Intelligence*. Yang, F., Wang, W., Wang, F., Fang, Y., Tang, D., Huang, J., ... & Yao, J. (2022). 
 
 * [GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations](https://www.biorxiv.org/content/10.1101/2022.07.12.499735v2). *BioRxiv preprint*. Roohani, Y., Huang, K., & Leskovec, J. (2022). 
+* [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0). *Nature Machine Intelligence*. Tian, T., Wan, J., Song, Q., & Wei, Z. (2019). Clustering single-cell RNA-seq data with a model-based deep learning approach. Nature Machine Intelligence, 1(4), 191-198.
+* [An interpretable deep-learning architecture of capsule networks for identifying cell-type gene expression programs from single-cell RNA-sequencing data](https://www.nature.com/articles/s42256-020-00244-4). *Nature Machine Intelligence*. Wang, L., Nie, R., Yu, Z., Xin, R., Zheng, C., Zhang, Z., ... & Cai, J. (2020). An interpretable deep-learning architecture of capsule networks for identifying cell-type gene expression programs from single-cell RNA-sequencing data. Nature Machine Intelligence, 2(11), 693-703.
+* [Iterative transfer learning with neural network for clustering and cell type classification in single-cell RNA-seq analysis](https://www.nature.com/articles/s42256-020-00233-7). *Nature Machine Intelligence*. Hu, J., Li, X., Hu, G., Lyu, Y., Susztak, K., & Li, M. (2020). Iterative transfer learning with neural network for clustering and cell type classification in single-cell RNA-seq analysis. Nature machine intelligence, 2(10), 607-618.
 
 ## 4. Others
+
+* [Predicting disease-associated mutation of metal-binding sites in proteins using a deep learning approach](https://www.nature.com/articles/s42256-019-0119-z). *Nature Machine Intelligence*. Koohi-Moghadam, M., Wang, H., Wang, Y., Yang, X., Li, H., Wang, J., & Sun, H. (2019). Predicting disease-associated mutation of metal-binding sites in proteins using a deep learning approach. Nature Machine Intelligence, 1(12), 561-567.
+* [Evaluation of deep learning in non-coding RNA classification](https://www.nature.com/articles/s42256-019-0051-2). *Nature Machine Intelligence*. Amin, N., McGrath, A., & Chen, Y. P. P. Evaluation of deep learning in non-coding RNA classification. Nat Mach Intell. 2019; 1 (5): 246–56. External Resources Crossref (DOI).
+* [Feedback GAN for DNA optimizes protein functions](https://www.nature.com/articles/s42256-019-0017-4). *Nature Machine Intelligence*. Gupta, A., & Zou, J. (2019). Feedback GAN for DNA optimizes protein functions. Nature Machine Intelligence, 1(2), 105-111.
+* [Gene set inference from single-cell sequencing data using a hybrid of matrix factorization and variational autoencoders](https://www.nature.com/articles/s42256-020-00269-9). *Nature Machine Intelligence*. Lukassen, S., Ten, F. W., Adam, L., Eils, R., & Conrad, C. (2020). Gene set inference from single-cell sequencing data using a hybrid of matrix factorization and variational autoencoders. Nature Machine Intelligence, 2(12), 800-809.
+* [Elucidation of DNA methylation on N6-adenine with deep learning](https://www.nature.com/articles/s42256-020-0211-4). *Nature Machine Intelligence*. Tan, F., Tian, T., Hou, X., Yu, X., Gu, L., Mafra, F., ... & Hakonarson, H. (2020). Elucidation of DNA methylation on N6-adenine with deep learning. Nature Machine Intelligence, 2(8), 466-475.
+* [Deep learning decodes the principles of differential gene expression](https://www.nature.com/articles/s42256-020-0201-6). *Nature Machine Intelligence*.
+Tasaki, S., Gaiteri, C., Mostafavi, S., & Wang, Y. (2020). Deep learning decodes the principles of differential gene expression. Nature Machine Intelligence, 2(7), 376-386.
+*[Gaussian embedding for large-scale gene set analysis](https://www.nature.com/articles/s42256-020-0193-2). *Nature Machine Intelligence*. Wang, S., Flynn, E. R., & Altman, R. B. (2020). Gaussian embedding for large-scale gene set analysis. Nature machine intelligence, 2(7), 387-395.
