@@ -88,6 +88,7 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 * [Cell type annotation of single-cell chromatin accessibility data via supervised Bayesian embedding](https://www.nature.com/articles/s42256-021-00432-w).*Nature Machine Intelligence*. Chen, X., Chen, S., Song, S., Gao, Z., Hou, L., Zhang, X., ... & Jiang, R. (2022). 
 
+* [Deep learning of cross-species single-cell landscapes identifies conserved regulatory programs underlying cell types](https://www.nature.com/articles/s41588-022-01197-7).*Nature Genetics*. Li, Jiaqi, Jingjing Wang, Peijing Zhang, Renying Wang, Yuqing Mei, Zhongyi Sun, Lijiang Fei et al. (2022)
 
 ## 4. Others
 
