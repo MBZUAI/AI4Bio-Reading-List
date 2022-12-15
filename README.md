@@ -7,6 +7,7 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
   * [1.1 Pilot Work](#11-pilot-work)
   * [1.2 Protein Structure Prediction](#12-protein-structure-prediction)
   * [1.3 Protein Representation Learning](#13-protein-representation-learning)
+  * [1.4 Diffusion](#14-diffusion)
 - [2. Protein Interaction Level](#2-protein-interaction-level)
 - [3. Cell Level](#3-cell-level)
 - [4. Others](#4-others)
@@ -54,6 +55,38 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 * [Transformer-based protein generation with regularized latent space optimization](https://www.nature.com/articles/s42256-022-00532-1). *Nature Machine Intelligence*. Castro, E., Godavarthi, A., Rubinfien, J., Givechian, K., Bhaskar, D., & Krishnaswamy, S. (2022). 
 
+
+### 1.4 Diffusion
+
+* [Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2205.15019) *arXiv preprint*. Anand, Namrata, and Tudor Achim. (2022).
+
+* [Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models](https://www.biorxiv.org/content/10.1101/2022.12.09.519842.abstract). *bioRxiv*. Watson JL, Juergens D, Bennett NR, Trippe BL, Yim J, Eisenach HE, Ahern W, Borst AJ, Ragotte RJ, Milles LF, Wicky BI. (2022). Also check [this blog](https://www.bakerlab.org/2022/11/30/diffusion-model-for-protein-design).
+
+* [Illuminating protein space with a programmable generative model](https://www.biorxiv.org/content/10.1101/2022.12.01.518682.abstract). *bioRxiv*. Ingraham, J., Baranov, M., Costello, Z., Frappier, V., Ismail, A., Tie, S., ... & Grigoryan, G. (2022). Also check [this blog](https://generatebiomedicines.com/chroma).
+
+* [Protein structure generation via folding diffusion](https://openreview.net/pdf?id=Nkd7AS2USRd). *arXiv preprint*. Wu, Kevin E., et al. (2022).
+
+<!-- * [Independent se (3)-equivariant models for end-to-end rigid protein docking](https://openreview.net/forum?id=GQjaI9mLet). *ICLR 2022*. Ganea, Octavian-Eugen, et al. (2022). (Non-diffusion.) -->
+
+* [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://arxiv.org/abs/2210.01776). *arXiv*. Corso, Gabriele, et al. (2022).
+
+* [Diffusion Probabilistic Modeling of Protein Backbones in 3D for the motif-scaffolding problem](https://openreview.net/forum?id=6TxBxqNME1Y). *arXiv*. Trippe, Brian L., et al. (2022).
+
+* [Antigen-specific antibody design and optimization with diffusion-based generative models](https://www.biorxiv.org/content/10.1101/2022.07.10.499510.abstract). *bioRxiv*. Luo, Shitong, et al. (2022).
+
+* [Geodiff: A geometric diffusion model for molecular conformation generation](https://openreview.net/forum?id=PzcvxEMzvQC). *ICLR 2022*. Xu, Minkai, et al. (2022).
+
+* [Joint Protein Sequence-Structure Co-Design via Equivariant Diffusion](https://openreview.net/pdf?id=dq3g7Bl9of). *NeurIPS 2022 Workshop on Learning Meaningful Representations of Life*. Vinod, Ria, Kevin K. Yang, and Lorin Crawford. (2022).
+
+* [Latent Space Diffusion Models of Cryo-EM Structures](https://arxiv.org/pdf/2211.14169.pdf). *arXiv*. Kreis, Karsten, et al. (2022).
+
+* [Dynamic-Backbone Protein-Ligand Structure Prediction with Multiscale Generative Diffusion Models.](https://arxiv.org/pdf/2209.15171.pdf). *arXiv*. Qiao, Zhuoran, et al. (2022).
+
+<!-- * [Protein Sequence and Structure Co-Design with Equivariant Translation] Non-diffusion -->
+
+* [ProteinSGM: Score-based generative modeling for de novo protein design](https://www.biorxiv.org/content/10.1101/2022.07.13.499967v1.abstract). *bioRxiv*. Lee, Jin Sub, and Philip M. Kim. (2022).
+
+
 ## 2. Protein Interaction Level
 
 * [Protein complex prediction with AlphaFold-Multimer](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2.full.pdf). *BioRxiv preprint*. Evans, R., O’Neill, M., Pritzel, A., Antropova, N., Senior, A., Green, T., ... & Hassabis, D. (2022). 
@@ -61,7 +94,6 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 * [Predicting drug–protein interaction using quasi-visual question answering system](https://www.nature.com/articles/s42256-020-0152-y). *Nature Machine Intelligence*. Zheng, S., Li, Y., Chen, S., Xu, J., & Yang, Y. (2020).
 
 * [A topology-based network tree for the prediction of protein–protein binding affinity changes following mutation](https://www.nature.com/articles/s42256-020-0149-6). *Nature Machine Intelligence*. Wang, M., Cang, Z., & Wei, G. W. (2020).
-
 
 
 ## 3. Cell Level
