@@ -4,8 +4,8 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 **Contents:**
 - [1. Protein Level](#1-protein-level)
-  * [1.1 Pilot Work](#11-pilot-work)
-  * [1.2 Protein Structure Prediction](#12-protein-structure-prediction)
+  * [1.1 Protein Structure Prediction](#11-protein-structure-prediction)
+  * [1.2 Protein Design](#12-protein-design)
   * [1.3 Protein Representation Learning](#13-protein-representation-learning)
   * [1.4 Diffusion](#14-diffusion)
 - [2. Protein Interaction Level](#2-protein-interaction-level)
@@ -13,17 +13,16 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 - [4. Others](#4-others)
 
 
-
 ## 1. Protein Level
 
 
-### 1.1 Pilot Work
+### 1.1 Protein Structure Prediction
+
 * [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2). *Nature*. Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D. (2021).
 
-
-### 1.2 Protein Structure Prediction
-
 * [Accurate prediction of protein structures and interactions using a three-track neural network](https://www.science.org/doi/abs/10.1126/science.abj8754). *Science*. Baek, M., DiMaio, F., Anishchenko, I., Dauparas, J., Ovchinnikov, S., Lee, G. R., ... & Baker, D. (2021).
+
+* [ColabFold: making protein folding accessible to all](https://www.nature.com/articles/s41592-022-01488-1). *Nature Methods*. Mirdita, M., Schütze, K., Moriwaki, Y., Heo, L., Ovchinnikov, S., & Steinegger, M. (2022).
 
 * [Language models of protein sequences at the scale of evolution enable accurate structure prediction](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf). *BioRxiv preprint*. Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., ... & Rives, A. (2022).
 
@@ -39,6 +38,10 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 
 
+### 1.2 Protein Design
+
+* [Transformer-based protein generation with regularized latent space optimization](https://www.nature.com/articles/s42256-022-00532-1). *Nature Machine Intelligence*. Castro, E., Godavarthi, A., Rubinfien, J., Givechian, K., Bhaskar, D., & Krishnaswamy, S. (2022). 
+
 
 
 ### 1.3 Protein Representation Learning
@@ -53,7 +56,6 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 * [Expanding functional protein sequence spaces using generative adversarial networks](https://www.nature.com/articles/s42256-021-00310-5). *Nature Machine Intelligence*. Repecka, D., Jauniskis, V., Karpus, L., Rembeza, E., Rokaitis, I., Zrimec, J., ... & Zelezniak, A. (2021).
 
-* [Transformer-based protein generation with regularized latent space optimization](https://www.nature.com/articles/s42256-022-00532-1). *Nature Machine Intelligence*. Castro, E., Godavarthi, A., Rubinfien, J., Givechian, K., Bhaskar, D., & Krishnaswamy, S. (2022). 
 
 
 ### 1.4 Diffusion
@@ -87,13 +89,32 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 * [ProteinSGM: Score-based generative modeling for de novo protein design](https://www.biorxiv.org/content/10.1101/2022.07.13.499967v1.abstract). *bioRxiv*. Lee, Jin Sub, and Philip M. Kim. (2022).
 
 
+
+
 ## 2. Protein Interaction Level
 
+
+* [Computed structures of core eukaryotic protein complexes](https://www.science.org/doi/full/10.1126/science.abm4805). *Science*. Humphreys, I. R., Pei, J., Baek, M., Krishnakumar, A., Anishchenko, I., Ovchinnikov, S., ... & Baker, D. (2021).
+
+* [Harnessing protein folding neural networks for peptide–protein docking](https://www.nature.com/articles/s41467-021-27838-9). *Nature communications*. Tsaban, T., Varga, J. K., Avraham, O., Ben-Aharon, Z., Khramushin, A., & Schueler-Furman, O. (2022).
+
 * [Protein complex prediction with AlphaFold-Multimer](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2.full.pdf). *BioRxiv preprint*. Evans, R., O’Neill, M., Pritzel, A., Antropova, N., Senior, A., Green, T., ... & Hassabis, D. (2022). 
+
+* [Improved prediction of protein-protein interactions using AlphaFold2](https://www.nature.com/articles/s41467-022-28865-w). *Nature communications*. Bryant, P., Pozzati, G., & Elofsson, A. (2022). 
+
+* [AF2Complex predicts direct physical interactions in multimeric proteins with deep learning](https://www.nature.com/articles/s41467-022-29394-2). *Nature communications*. Gao, M., Nakajima An, D., Parks, J. M., & Skolnick, J. (2022).
+
+* [Uni-Fold Symmetry: harnessing symmetry in folding large protein complexes](https://www.biorxiv.org/content/10.1101/2022.08.30.505833v1.abstract). *bioRxiv*. Li, Z., Yang, S., Liu, X., Chen, W., Wen, H., Shen, F., ... & Zhang, L. (2022).
+
+* [Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search](https://www.nature.com/articles/s41467-022-33729-4). *Nature Communications*. Bryant, P., Pozzati, G., Zhu, W., Shenoy, A., Kundrotas, P., & Elofsson, A. (2022).
+
+* [Improve the Protein Complex Prediction with Protein Language Models](https://www.biorxiv.org/content/10.1101/2022.09.15.508065v2.abstract). *bioRxiv*. Chen, B., Xie, Z., Xu, J., Qiu, J., Ye, Z., & Tang, J. (2022). 
 
 * [Predicting drug–protein interaction using quasi-visual question answering system](https://www.nature.com/articles/s42256-020-0152-y). *Nature Machine Intelligence*. Zheng, S., Li, Y., Chen, S., Xu, J., & Yang, Y. (2020).
 
 * [A topology-based network tree for the prediction of protein–protein binding affinity changes following mutation](https://www.nature.com/articles/s42256-020-0149-6). *Nature Machine Intelligence*. Wang, M., Cang, Z., & Wei, G. W. (2020).
+
+
 
 
 ## 3. Cell Level
