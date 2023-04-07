@@ -50,11 +50,12 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * **Protein function prediction for newly sequenced organisms.** Nature Machine Intelligence. 2021. Torres, M., Yang, H., Romero, A. E., & Paccanaro, A.   [[Paper](https://www.nature.com/articles/s42256-021-00419-7)]
 
-* **Expanding functional protein sequence spaces using generative adversarial networks.** Nature Machine Intelligence. 2021. Repecka, D., Jauniskis, V., Karpus, L., Rembeza, E., Rokaitis, I., Zrimec, J., ... & Zelezniak, A. [[Paper](https://www.nature.com/articles/s42256-021-00310-5)]
 
 
 
 ### 1.3 Protein Design
+
+* **Expanding functional protein sequence spaces using generative adversarial networks.** Nature Machine Intelligence. 2021. Repecka, D., Jauniskis, V., Karpus, L., Rembeza, E., Rokaitis, I., Zrimec, J., ... & Zelezniak, A. [[Paper](https://www.nature.com/articles/s42256-021-00310-5)]
 
 * **Transformer-based protein generation with regularized latent space optimization.** Nature Machine Intelligence. 2022. Castro, E., Godavarthi, A., Rubinfien, J., Givechian, K., Bhaskar, D., & Krishnaswamy, S. [[Paper](https://www.nature.com/articles/s42256-022-00532-1)]
 
@@ -68,31 +69,40 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 ## 2. Protein Interaction Level
 
+* **Predicting drug–protein interaction using quasi-visual question answering system.** Nature Machine Intelligence. 2020. Zheng, S., Li, Y., Chen, S., Xu, J., & Yang, Y. (2020). [[Paper](https://www.nature.com/articles/s42256-020-0152-y)]
 
-* [Computed structures of core eukaryotic protein complexes](https://www.science.org/doi/full/10.1126/science.abm4805). *Science*. Humphreys, I. R., Pei, J., Baek, M., Krishnakumar, A., Anishchenko, I., Ovchinnikov, S., ... & Baker, D. (2021).
+* **A topology-based network tree for the prediction of protein–protein binding affinity changes following mutation.** Nature Machine Intelligence. 2020. Wang, M., Cang, Z., & Wei, G. W. [[Paper](https://www.nature.com/articles/s42256-020-0149-6)]
 
-* [Harnessing protein folding neural networks for peptide–protein docking](https://www.nature.com/articles/s41467-021-27838-9). *Nature communications*. Tsaban, T., Varga, J. K., Avraham, O., Ben-Aharon, Z., Khramushin, A., & Schueler-Furman, O. (2022).
+* **Computed structures of core eukaryotic protein complexes.** Science. 2021. Humphreys, I. R., Pei, J., Baek, M., Krishnakumar, A., Anishchenko, I., Ovchinnikov, S., ... & Baker, D. [[Paper](https://www.science.org/doi/full/10.1126/science.abm4805)]
 
-* [Protein complex prediction with AlphaFold-Multimer](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2.full.pdf). *BioRxiv preprint*. Evans, R., O’Neill, M., Pritzel, A., Antropova, N., Senior, A., Green, T., ... & Hassabis, D. (2022). 
+* **Harnessing protein folding neural networks for peptide–protein docking.** Nature communications. 2022. Tsaban, T., Varga, J. K., Avraham, O., Ben-Aharon, Z., Khramushin, A., & Schueler-Furman, O. [[Paper](https://www.nature.com/articles/s41467-021-27838-9)]
 
-* [Improved prediction of protein-protein interactions using AlphaFold2](https://www.nature.com/articles/s41467-022-28865-w). *Nature communications*. Bryant, P., Pozzati, G., & Elofsson, A. (2022). 
+* **Protein complex prediction with AlphaFold-Multimer.** BioRxiv. 2022. Evans, R., O’Neill, M., Pritzel, A., Antropova, N., Senior, A., Green, T., ... & Hassabis, D. [[Paper](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2.full.pdf)]
 
-* [AF2Complex predicts direct physical interactions in multimeric proteins with deep learning](https://www.nature.com/articles/s41467-022-29394-2). *Nature communications*. Gao, M., Nakajima An, D., Parks, J. M., & Skolnick, J. (2022).
+* **Improved prediction of protein-protein interactions using AlphaFold2.** Nature communications. 2022. Bryant, P., Pozzati, G., & Elofsson, A. [[Paper](https://www.nature.com/articles/s41467-022-28865-w)]
 
-* [Uni-Fold Symmetry: harnessing symmetry in folding large protein complexes](https://www.biorxiv.org/content/10.1101/2022.08.30.505833v1.abstract). *bioRxiv*. Li, Z., Yang, S., Liu, X., Chen, W., Wen, H., Shen, F., ... & Zhang, L. (2022).
+* **AF2Complex predicts direct physical interactions in multimeric proteins with deep learning.** Nature communications. 2022. Gao, M., Nakajima An, D., Parks, J. M., & Skolnick, J. [[Paper](https://www.nature.com/articles/s41467-022-29394-2)]
 
-* [Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search](https://www.nature.com/articles/s41467-022-33729-4). *Nature Communications*. Bryant, P., Pozzati, G., Zhu, W., Shenoy, A., Kundrotas, P., & Elofsson, A. (2022).
+* **Uni-Fold Symmetry: harnessing symmetry in folding large protein complexes.** bioRxiv. 2022. Li, Z., Yang, S., Liu, X., Chen, W., Wen, H., Shen, F., ... & Zhang, L. [[Paper](https://www.biorxiv.org/content/10.1101/2022.08.30.505833v1.abstract)]
 
-* [Improve the Protein Complex Prediction with Protein Language Models](https://www.biorxiv.org/content/10.1101/2022.09.15.508065v2.abstract). *bioRxiv*. Chen, B., Xie, Z., Xu, J., Qiu, J., Ye, Z., & Tang, J. (2022). 
+* **Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search.** Nature Communications. 2022. Bryant, P., Pozzati, G., Zhu, W., Shenoy, A., Kundrotas, P., & Elofsson, A. [[Paper](https://www.nature.com/articles/s41467-022-33729-4)]
 
-* [Predicting drug–protein interaction using quasi-visual question answering system](https://www.nature.com/articles/s42256-020-0152-y). *Nature Machine Intelligence*. Zheng, S., Li, Y., Chen, S., Xu, J., & Yang, Y. (2020).
+* **Improve the Protein Complex Prediction with Protein Language Models.** bioRxiv. 2022. Chen, B., Xie, Z., Xu, J., Qiu, J., Ye, Z., & Tang, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.09.15.508065v2.abstract)]
 
-* [A topology-based network tree for the prediction of protein–protein binding affinity changes following mutation](https://www.nature.com/articles/s42256-020-0149-6). *Nature Machine Intelligence*. Wang, M., Cang, Z., & Wei, G. W. (2020).
 
 
 
 
 ## 3. Cell Level
+
+
+* **Clustering single-cell RNA-seq data with a model-based deep learning approach.** Nature Machine Intelligence. 2019. Tian, T., Wan, J., Song, Q., & Wei, Z. [[Paper](https://www.nature.com/articles/s42256-019-0037-0)]
+
+* **An interpretable deep-learning architecture of capsule networks for identifying cell-type gene expression programs from single-cell RNA-sequencing data.** Nature Machine Intelligence. 2020. Wang, L., Nie, R., Yu, Z., Xin, R., Zheng, C., Zhang, Z., ... & Cai, J. [[Paper](https://www.nature.com/articles/s42256-020-00244-4)]
+
+* **Iterative transfer learning with neural network for clustering and cell type classification in single-cell RNA-seq analysis.** Nature Machine Intelligence. 2020. Hu, J., Li, X., Hu, G., Lyu, Y., Susztak, K., & Li, M. [[Paper](https://www.nature.com/articles/s42256-020-00233-7)]
+
+* **Simultaneous deep generative modelling and clustering of single-cell genomic data.** Nature Machine Intelligence. 2021. Liu, Q., Chen, S., Jiang, R., & Wong, W. H. (2021). [[Paper](https://www.nature.com/articles/s42256-021-00333-y)]
 
 * **Effective gene expression prediction from sequence by integrating long-range interactions.** Nature methods. 2021. Avsec, Ž., Agarwal, V., Visentin, D., Ledsam, J. R., Grabska-Barwinska, A., Taylor, K. R., ... & Kelley, D. R. [[Paper](https://www.nature.com/articles/s41592-021-01252-x)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230126%20Pre%20-%20Effective%20gene%20expression%20prediction%20from%20sequence%20by%20integrating%20long-range%20interactions.pdf)]
 
@@ -100,26 +110,20 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * **GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations.** BioRxiv. 2022. Roohani, Y., Huang, K., & Leskovec, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.12.499735v2)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221215%20Pre%20-%20scBERT%20as%20a%20large-scale%20pretrained%20deep%20language%20model%20for%20cell%20type%20annotation%20of%20single-cell%20RNA-seq%20data.pdf)]
 
+* **A multi-use deep learning method for CITE-seq and single-cell RNA-seq data integration with cell surface protein prediction and imputation.** Nature Machine Intelligence. 2022. Lakkis, J., Schroeder, A., Su, K., Lee, M. Y., Bashore, A. C., Reilly, M. P., & Li, M. [[Paper](https://www.nature.com/articles/s42256-022-00545-w)]
 
-* [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0). *Nature Machine Intelligence*. Tian, T., Wan, J., Song, Q., & Wei, Z. (2019).
+* **Contrastive learning enables rapid mapping to multimodal single-cell atlas of multimillion scale.** Nature Machine Intelligence. 2022. Yang, M., Yang, Y., Xie, C., Ni, M., Liu, J., Yang, H., ... & Wang, J. [[Paper](https://www.nature.com/articles/s42256-022-00518-z)]
 
-* [An interpretable deep-learning architecture of capsule networks for identifying cell-type gene expression programs from single-cell RNA-sequencing data](https://www.nature.com/articles/s42256-020-00244-4). *Nature Machine Intelligence*. Wang, L., Nie, R., Yu, Z., Xin, R., Zheng, C., Zhang, Z., ... & Cai, J. (2020). 
+* **Interpreting the B-cell receptor repertoire with single-cell gene expression using Benisse.** Nature Machine Intelligence. 2022. Zhang, Z., Chang, W. Y., Wang, K., Yang, Y., Wang, X., Yao, C., ... & Wang, T. [[Paper](https://www.nature.com/articles/s42256-022-00492-6)]
 
-* [Iterative transfer learning with neural network for clustering and cell type classification in single-cell RNA-seq analysis](https://www.nature.com/articles/s42256-020-00233-7). *Nature Machine Intelligence*. Hu, J., Li, X., Hu, G., Lyu, Y., Susztak, K., & Li, M. (2020). 
+* **Simultaneous dimensionality reduction and integration for single-cell ATAC-seq data using deep learning.** Nature Machine Intelligence. 2022. Kopp, W., Akalin, A., & Ohler, U. [[Paper](https://www.nature.com/articles/s42256-022-00443-1)]
 
-* [Simultaneous deep generative modelling and clustering of single-cell genomic data](https://www.nature.com/articles/s42256-021-00333-y). *Nature Machine Intelligence*. Liu, Q., Chen, S., Jiang, R., & Wong, W. H. (2021). 
+* **Cell type annotation of single-cell chromatin accessibility data via supervised Bayesian embedding.** Nature Machine Intelligence. 2022. Chen, X., Chen, S., Song, S., Gao, Z., Hou, L., Zhang, X., ... & Jiang, R. [[Paper](https://www.nature.com/articles/s42256-021-00432-w)]
 
-* [A multi-use deep learning method for CITE-seq and single-cell RNA-seq data integration with cell surface protein prediction and imputation](https://www.nature.com/articles/s42256-022-00545-w). *Nature Machine Intelligence*. Lakkis, J., Schroeder, A., Su, K., Lee, M. Y., Bashore, A. C., Reilly, M. P., & Li, M. (2022).
+* **Deep learning of cross-species single-cell landscapes identifies conserved regulatory programs underlying cell types.** Nature Genetics. 2022. Li, Jiaqi, Jingjing Wang, Peijing Zhang, Renying Wang, Yuqing Mei, Zhongyi Sun, Lijiang Fei et al. [[Paper](https://www.nature.com/articles/s41588-022-01197-7)]
 
-* [Contrastive learning enables rapid mapping to multimodal single-cell atlas of multimillion scale](https://www.nature.com/articles/s42256-022-00518-z). *Nature Machine Intelligence*. Yang, M., Yang, Y., Xie, C., Ni, M., Liu, J., Yang, H., ... & Wang, J. (2022).
 
-* [Interpreting the B-cell receptor repertoire with single-cell gene expression using Benisse](https://www.nature.com/articles/s42256-022-00492-6). *Nature Machine Intelligence*. Zhang, Z., Chang, W. Y., Wang, K., Yang, Y., Wang, X., Yao, C., ... & Wang, T. (2022). 
 
-* [Simultaneous dimensionality reduction and integration for single-cell ATAC-seq data using deep learning](https://www.nature.com/articles/s42256-022-00443-1). *Nature Machine Intelligence*. Kopp, W., Akalin, A., & Ohler, U. (2022).
-
-* [Cell type annotation of single-cell chromatin accessibility data via supervised Bayesian embedding](https://www.nature.com/articles/s42256-021-00432-w).*Nature Machine Intelligence*. Chen, X., Chen, S., Song, S., Gao, Z., Hou, L., Zhang, X., ... & Jiang, R. (2022). 
-
-* [Deep learning of cross-species single-cell landscapes identifies conserved regulatory programs underlying cell types](https://www.nature.com/articles/s41588-022-01197-7).*Nature Genetics*. Li, Jiaqi, Jingjing Wang, Peijing Zhang, Renying Wang, Yuqing Mei, Zhongyi Sun, Lijiang Fei et al. (2022)
 
 ## 4. Others
 
