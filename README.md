@@ -57,8 +57,9 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 * **Transformer-based protein generation with regularized latent space optimization.** Nature Machine Intelligence. 2022. Castro, E., Godavarthi, A., Rubinfien, J., Givechian, K., Bhaskar, D., & Krishnaswamy, S. [[Paper](https://www.nature.com/articles/s42256-022-00532-1)]
 
-* **A high-level programming language for generative protein design.** bioRxiv, 2022-12. Hie, B., Candido, S., Lin, Z., Kabeli, O., Rao, R., Smetanin, N., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.abstract)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230112%20Pre%20-%20A%20high-level%20programming%20language%20for%20generative%20protein%20design.pdf)]
+* **A high-level programming language for generative protein design.** bioRxiv. 2022-12. Hie, B., Candido, S., Lin, Z., Kabeli, O., Rao, R., Smetanin, N., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.abstract)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230112%20Pre%20-%20A%20high-level%20programming%20language%20for%20generative%20protein%20design.pdf)]
 
+* **A universal deep-learning model for zinc finger design enables transcription factor reprogramming.** Nature Biotechnology. 2023. Ichikawa, D. M., Abdin, O., Alerasool, N., Kogenaru, M., Mueller, A. L., Wen, H., ... & Noyes, M. B. [[Paper](https://www.nature.com/articles/s41587-022-01624-4)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230316%20Pre%20-%20A%20universal%20deep-learning%20model%20for%20zinc%20finger%20design%20enables%20transcription%20factor%20reprogramming.pdf)]
 
 
 ### 1.4 Diffusion
