@@ -18,30 +18,34 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 ### 1.1 Protein Structure Prediction
 
-* [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2). *Nature*. Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D. (2021).
+* **Highly accurate protein structure prediction with AlphaFold.** *Nature*. 2021.
+Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D.
+[[Paper](https://www.nature.com/articles/s41586-021-03819-2)] 
+[[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221117%20Pre%20-%20Highly%20accurate%20protein%20structure%20prediction%20with%20AlphaFold.pdf)]
 
-* [Accurate prediction of protein structures and interactions using a three-track neural network](https://www.science.org/doi/abs/10.1126/science.abj8754). *Science*. Baek, M., DiMaio, F., Anishchenko, I., Dauparas, J., Ovchinnikov, S., Lee, G. R., ... & Baker, D. (2021).
+* **Accurate prediction of protein structures and interactions using a three-track neural network.** *Science*. 2021. Baek, M., DiMaio, F., Anishchenko, I., Dauparas, J., Ovchinnikov, S., Lee, G. R., ... & Baker, D. [[Paper](https://www.science.org/doi/abs/10.1126/science.abj8754)]
 
-* [ColabFold: making protein folding accessible to all](https://www.nature.com/articles/s41592-022-01488-1). *Nature Methods*. Mirdita, M., Schütze, K., Moriwaki, Y., Heo, L., Ovchinnikov, S., & Steinegger, M. (2022).
+* **ColabFold: making protein folding accessible to all].** *Nature Methods*. 2022. Mirdita, M., Schütze, K., Moriwaki, Y., Heo, L., Ovchinnikov, S., & Steinegger, M. [[Paper](https://www.nature.com/articles/s41592-022-01488-1)]
 
-* [Language models of protein sequences at the scale of evolution enable accurate structure prediction](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf). *BioRxiv preprint*. Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., ... & Rives, A. (2022).
+* **Language models of protein sequences at the scale of evolution enable accurate structure prediction.** *BioRxiv*. 2022. Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221201%20Pre%20-%20Language%20models%20of%20protein%20sequences%20at%20the%20scale%20of%20evolution%20enable%20accurate%20structure%20prediction.pdf)]
 
-* [High-resolution de novo structure prediction from primary sequence](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1.full.pdf). *BioRxiv preprint*. Wu, R., Ding, F., Wang, R., Shen, R., Zhang, X., Luo, S., ... & Peng, J. (2022).
+* **High-resolution de novo structure prediction from primary sequence.** *BioRxiv*. 2022. Wu, R., Ding, F., Wang, R., Shen, R., Zhang, X., Luo, S., ... & Peng, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1.full.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
 
-* [Helixfold-single: Msa-free protein structure prediction by using protein language model as an alternative](https://arxiv.org/pdf/2207.13921.pdf). *ArXiv preprint*. Fang, X., Wang, F., Liu, L., He, J., Lin, D., Xiang, Y., ... & Song, L. (2022). 
+* **Helixfold-single: Msa-free protein structure prediction by using protein language model as an alternative.** *ArXiv*. 2022. Fang, X., Wang, F., Liu, L., He, J., Lin, D., Xiang, Y., ... & Song, L. [[Paper](https://arxiv.org/pdf/2207.13921.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
 
-* [AmoebaContact and GDFold: a new pipeline for rapid prediction of protein structures](https://arxiv.org/pdf/1905.11640.pdf). *arXiv preprint arXiv:1905.11640*. Mao, W., Ding, W., & Gong, H. (2019).
+[//]: <* [AmoebaContact and GDFold: a new pipeline for rapid prediction of protein structures](https://arxiv.org/pdf/1905.11640.pdf). *arXiv preprint arXiv:1905.11640*. Mao, W., Ding, W., & Gong, H. (2019).>
 
-* [Improved fragment sampling for ab initio protein structure prediction using deep neural networks](https://www.nature.com/articles/s42256-019-0075-7). *Nature Machine Intelligence*. Wang, T., Qiao, Y., Ding, W., Mao, W., Zhou, Y., & Gong, H. (2019).
+[//]: <* [Improved fragment sampling for ab initio protein structure prediction using deep neural networks](https://www.nature.com/articles/s42256-019-0075-7). *Nature Machine Intelligence*. Wang, T., Qiao, Y., Ding, W., Mao, W., Zhou, Y., & Gong, H. (2019).>
 
-* [Improved protein structure prediction by deep learning irrespective of co-evolution information](https://www.nature.com/articles/s42256-021-00348-5). *Nature Machine Intelligence*. Xu, J., Mcpartlon, M., & Li, J. (2021).
+[//]: <* [Improved protein structure prediction by deep learning irrespective of co-evolution information](https://www.nature.com/articles/s42256-021-00348-5). *Nature Machine Intelligence*. Xu, J., Mcpartlon, M., & Li, J. (2021).>
 
 
 
 ### 1.2 Protein Design
 
-* [Transformer-based protein generation with regularized latent space optimization](https://www.nature.com/articles/s42256-022-00532-1). *Nature Machine Intelligence*. Castro, E., Godavarthi, A., Rubinfien, J., Givechian, K., Bhaskar, D., & Krishnaswamy, S. (2022). 
+* **Transformer-based protein generation with regularized latent space optimization.** *Nature Machine Intelligence*. 2022. Castro, E., Godavarthi, A., Rubinfien, J., Givechian, K., Bhaskar, D., & Krishnaswamy, S. [[Paper](https://www.nature.com/articles/s42256-022-00532-1)]
 
+* **A high-level programming language for generative protein design.** bioRxiv, 2022-12. Hie, B., Candido, S., Lin, Z., Kabeli, O., Rao, R., Smetanin, N., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.abstract)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230112%20Pre%20-%20A%20high-level%20programming%20language%20for%20generative%20protein%20design.pdf)]
 
 
 ### 1.3 Protein Representation Learning
