@@ -5,8 +5,8 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 **Contents:**
 - [1. Protein Level](#1-protein-level)
   * [1.1 Protein Structure Prediction](#11-protein-structure-prediction)
-  * [1.2 Protein Design](#12-protein-design)
-  * [1.3 Protein Representation Learning](#13-protein-representation-learning)
+  * [1.2 Protein Function Prediction](#12-protein-function-prediction)
+  * [1.3 Protein Design](#13-protein-design)
   * [1.4 Diffusion](#14-diffusion)
 - [2. Protein Interaction Level](#2-protein-interaction-level)
 - [3. Cell Level](#3-cell-level)
@@ -18,20 +18,18 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
 
 ### 1.1 Protein Structure Prediction
 
-* **Highly accurate protein structure prediction with AlphaFold.** *Nature*. 2021.
-Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D.
-[[Paper](https://www.nature.com/articles/s41586-021-03819-2)] 
+* **Highly accurate protein structure prediction with AlphaFold.** Nature. 2021. Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D. [[Paper](https://www.nature.com/articles/s41586-021-03819-2)] 
 [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221117%20Pre%20-%20Highly%20accurate%20protein%20structure%20prediction%20with%20AlphaFold.pdf)]
 
-* **Accurate prediction of protein structures and interactions using a three-track neural network.** *Science*. 2021. Baek, M., DiMaio, F., Anishchenko, I., Dauparas, J., Ovchinnikov, S., Lee, G. R., ... & Baker, D. [[Paper](https://www.science.org/doi/abs/10.1126/science.abj8754)]
+* **Accurate prediction of protein structures and interactions using a three-track neural network.** Science. 2021. Baek, M., DiMaio, F., Anishchenko, I., Dauparas, J., Ovchinnikov, S., Lee, G. R., ... & Baker, D. [[Paper](https://www.science.org/doi/abs/10.1126/science.abj8754)]
 
 * **ColabFold: making protein folding accessible to all].** *Nature Methods*. 2022. Mirdita, M., Schütze, K., Moriwaki, Y., Heo, L., Ovchinnikov, S., & Steinegger, M. [[Paper](https://www.nature.com/articles/s41592-022-01488-1)]
 
-* **Language models of protein sequences at the scale of evolution enable accurate structure prediction.** *BioRxiv*. 2022. Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221201%20Pre%20-%20Language%20models%20of%20protein%20sequences%20at%20the%20scale%20of%20evolution%20enable%20accurate%20structure%20prediction.pdf)]
+* **Language models of protein sequences at the scale of evolution enable accurate structure prediction.** BioRxiv. 2022. Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221201%20Pre%20-%20Language%20models%20of%20protein%20sequences%20at%20the%20scale%20of%20evolution%20enable%20accurate%20structure%20prediction.pdf)]
 
-* **High-resolution de novo structure prediction from primary sequence.** *BioRxiv*. 2022. Wu, R., Ding, F., Wang, R., Shen, R., Zhang, X., Luo, S., ... & Peng, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1.full.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
+* **High-resolution de novo structure prediction from primary sequence.** BioRxiv. 2022. Wu, R., Ding, F., Wang, R., Shen, R., Zhang, X., Luo, S., ... & Peng, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1.full.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
 
-* **Helixfold-single: Msa-free protein structure prediction by using protein language model as an alternative.** *ArXiv*. 2022. Fang, X., Wang, F., Liu, L., He, J., Lin, D., Xiang, Y., ... & Song, L. [[Paper](https://arxiv.org/pdf/2207.13921.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
+* **Helixfold-single: Msa-free protein structure prediction by using protein language model as an alternative.** ArXiv. 2022. Fang, X., Wang, F., Liu, L., He, J., Lin, D., Xiang, Y., ... & Song, L. [[Paper](https://arxiv.org/pdf/2207.13921.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
 
 [//]: <* [AmoebaContact and GDFold: a new pipeline for rapid prediction of protein structures](https://arxiv.org/pdf/1905.11640.pdf). *arXiv preprint arXiv:1905.11640*. Mao, W., Ding, W., & Gong, H. (2019).>
 
@@ -41,30 +39,31 @@ Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ..
 
 
 
-### 1.2 Protein Design
+### 1.2 Protein Function Prediction
 
-* **Transformer-based protein generation with regularized latent space optimization.** *Nature Machine Intelligence*. 2022. Castro, E., Godavarthi, A., Rubinfien, J., Givechian, K., Bhaskar, D., & Krishnaswamy, S. [[Paper](https://www.nature.com/articles/s42256-022-00532-1)]
+* **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences.** PNAS. 2021. Rives, A., Meier, J., Sercu, T., Goyal, S., Lin, Z., Liu, J., ... & Fergus, R. [[Paper](https://www.pnas.org/doi/epdf/10.1073/pnas.2016239118)]
+
+* **Leveraging implicit knowledge in neural networks for functional dissection and engineering of proteins.** Nature Machine Intelligence. 2019. Upmeier zu Belzen, J., Bürgel, T., Holderbach, S., Bubeck, F., Adam, L., Gandor, C., ... & Eils, R. [[Paper](https://www.nature.com/articles/s42256-019-0049-9)]
+
+* **Protein function prediction is improved by creating synthetic feature samples with generative adversarial networks.** Nature Machine Intelligence. 2020. Wan, C., & Jones, D. T. [[Paper](https://www.nature.com/articles/s42256-020-0222-1)]
+
+* **Protein function prediction for newly sequenced organisms.** Nature Machine Intelligence. 2021. Torres, M., Yang, H., Romero, A. E., & Paccanaro, A.   [[Paper](https://www.nature.com/articles/s42256-021-00419-7)]
+
+* **Expanding functional protein sequence spaces using generative adversarial networks.** Nature Machine Intelligence. 2021. Repecka, D., Jauniskis, V., Karpus, L., Rembeza, E., Rokaitis, I., Zrimec, J., ... & Zelezniak, A. [[Paper](https://www.nature.com/articles/s42256-021-00310-5)]
+
+
+
+### 1.3 Protein Design
+
+* **Transformer-based protein generation with regularized latent space optimization.** Nature Machine Intelligence. 2022. Castro, E., Godavarthi, A., Rubinfien, J., Givechian, K., Bhaskar, D., & Krishnaswamy, S. [[Paper](https://www.nature.com/articles/s42256-022-00532-1)]
 
 * **A high-level programming language for generative protein design.** bioRxiv, 2022-12. Hie, B., Candido, S., Lin, Z., Kabeli, O., Rao, R., Smetanin, N., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.abstract)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230112%20Pre%20-%20A%20high-level%20programming%20language%20for%20generative%20protein%20design.pdf)]
-
-
-### 1.3 Protein Representation Learning
-
-* [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.pnas.org/doi/epdf/10.1073/pnas.2016239118). *PNAS*. Rives, A., Meier, J., Sercu, T., Goyal, S., Lin, Z., Liu, J., ... & Fergus, R. (2021). 
-
-* [Leveraging implicit knowledge in neural networks for functional dissection and engineering of proteins](https://www.nature.com/articles/s42256-019-0049-9).*Nature Machine Intelligence*. Upmeier zu Belzen, J., Bürgel, T., Holderbach, S., Bubeck, F., Adam, L., Gandor, C., ... & Eils, R. (2019).
-
-* [Protein function prediction is improved by creating synthetic feature samples with generative adversarial networks](https://www.nature.com/articles/s42256-020-0222-1). *Nature Machine Intelligence*. Wan, C., & Jones, D. T. (2020).
-
-* [Protein function prediction for newly sequenced organisms](https://www.nature.com/articles/s42256-021-00419-7). *Nature Machine Intelligence*. Torres, M., Yang, H., Romero, A. E., & Paccanaro, A. (2021).
-
-* [Expanding functional protein sequence spaces using generative adversarial networks](https://www.nature.com/articles/s42256-021-00310-5). *Nature Machine Intelligence*. Repecka, D., Jauniskis, V., Karpus, L., Rembeza, E., Rokaitis, I., Zrimec, J., ... & Zelezniak, A. (2021).
 
 
 
 ### 1.4 Diffusion
 
-* [Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2205.15019) *arXiv preprint*. Anand, Namrata, and Tudor Achim. (2022).
+* [Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2205.15019) *arXiv preprint*. Anand, Namrata, and Tudor Achim. (2022). 
 
 * [Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models](https://www.biorxiv.org/content/10.1101/2022.12.09.519842.abstract). *bioRxiv*. Watson JL, Juergens D, Bennett NR, Trippe BL, Yim J, Eisenach HE, Ahern W, Borst AJ, Ragotte RJ, Milles LF, Wicky BI. (2022). Also check [this blog](https://www.bakerlab.org/2022/11/30/diffusion-model-for-protein-design).
 
@@ -123,9 +122,12 @@ Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ..
 
 ## 3. Cell Level
 
-* [scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data](https://www.nature.com/articles/s42256-022-00534-z#Sec2). *Nature Machine Intelligence*. Yang, F., Wang, W., Wang, F., Fang, Y., Tang, D., Huang, J., ... & Yao, J. (2022). 
+* **Effective gene expression prediction from sequence by integrating long-range interactions.** Nature methods. 2021. Avsec, Ž., Agarwal, V., Visentin, D., Ledsam, J. R., Grabska-Barwinska, A., Taylor, K. R., ... & Kelley, D. R. [[Paper](https://www.nature.com/articles/s41592-021-01252-x)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230126%20Pre%20-%20Effective%20gene%20expression%20prediction%20from%20sequence%20by%20integrating%20long-range%20interactions.pdf)]
 
-* [GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations](https://www.biorxiv.org/content/10.1101/2022.07.12.499735v2). *BioRxiv preprint*. Roohani, Y., Huang, K., & Leskovec, J. (2022). 
+* **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data**. Nature Machine Intelligence. 2022. Yang, F., Wang, W., Wang, F., Fang, Y., Tang, D., Huang, J., ... & Yao, J. [[Paper](https://www.nature.com/articles/s42256-022-00534-z#Sec2)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221215%20Pre%20-%20scBERT%20as%20a%20large-scale%20pretrained%20deep%20language%20model%20for%20cell%20type%20annotation%20of%20single-cell%20RNA-seq%20data.pdf)]
+
+* **GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations.** BioRxiv. 2022. Roohani, Y., Huang, K., & Leskovec, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.12.499735v2)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221215%20Pre%20-%20scBERT%20as%20a%20large-scale%20pretrained%20deep%20language%20model%20for%20cell%20type%20annotation%20of%20single-cell%20RNA-seq%20data.pdf)]
+
 
 * [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0). *Nature Machine Intelligence*. Tian, T., Wan, J., Song, Q., & Wei, Z. (2019).
 
@@ -148,6 +150,8 @@ Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ..
 * [Deep learning of cross-species single-cell landscapes identifies conserved regulatory programs underlying cell types](https://www.nature.com/articles/s41588-022-01197-7).*Nature Genetics*. Li, Jiaqi, Jingjing Wang, Peijing Zhang, Renying Wang, Yuqing Mei, Zhongyi Sun, Lijiang Fei et al. (2022)
 
 ## 4. Others
+
+<!--
 
 * [Predicting disease-associated mutation of metal-binding sites in proteins using a deep learning approach](https://www.nature.com/articles/s42256-019-0119-z). *Nature Machine Intelligence*. Koohi-Moghadam, M., Wang, H., Wang, Y., Yang, X., Li, H., Wang, J., & Sun, H. (2019). 
 
@@ -184,3 +188,6 @@ Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ..
 * [Interpreting neural networks for biological sequences by learning stochastic masks](https://www.nature.com/articles/s42256-021-00428-6).*Nature Machine Intelligence*. Linder, J., La Fleur, A., Chen, Z., Ljubetič, A., Baker, D., Kannan, S., & Seelig, G. (2022).
 
 * [Hierarchical deep reinforcement learning reveals a modular mechanism of cell movement](https://www.nature.com/articles/s42256-021-00431-x). *Nature Machine Intelligence*. Wang, Z., Xu, Y., Wang, D., Yang, J., & Bao, Z. (2022). 
+
+-->
+
