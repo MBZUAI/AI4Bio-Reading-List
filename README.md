@@ -9,6 +9,8 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
   * [1.3 Protein Design](#13-protein-design)
 - [2. Protein Interaction Level](#2-protein-interaction-level)
 - [3. Cell Level](#3-cell-level)
+  * [3.1 Cell Type Annotation](#31-cell-type-annotation)
+  * [3.2 Perturbation Modeling](#32-perturbation-modeling)
 - [4. Others](#4-others)
 
 Note: For applications of diffusion methods in protein science, check [Diffusion reading list](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Diffusion%20reading%20list.md).
@@ -95,6 +97,8 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 ## 3. Cell Level
 
+### 3.1 Cell Type Annotation
+
 
 * **Clustering single-cell RNA-seq data with a model-based deep learning approach.** Nature Machine Intelligence. 2019. Tian, T., Wan, J., Song, Q., & Wei, Z. [[Paper](https://www.nature.com/articles/s42256-019-0037-0)]
 
@@ -104,11 +108,7 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * **Simultaneous deep generative modelling and clustering of single-cell genomic data.** Nature Machine Intelligence. 2021. Liu, Q., Chen, S., Jiang, R., & Wong, W. H. (2021). [[Paper](https://www.nature.com/articles/s42256-021-00333-y)]
 
-* **Effective gene expression prediction from sequence by integrating long-range interactions.** Nature methods. 2021. Avsec, Ž., Agarwal, V., Visentin, D., Ledsam, J. R., Grabska-Barwinska, A., Taylor, K. R., ... & Kelley, D. R. [[Paper](https://www.nature.com/articles/s41592-021-01252-x)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230126%20Pre%20-%20Effective%20gene%20expression%20prediction%20from%20sequence%20by%20integrating%20long-range%20interactions.pdf)]
-
 * **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data**. Nature Machine Intelligence. 2022. Yang, F., Wang, W., Wang, F., Fang, Y., Tang, D., Huang, J., ... & Yao, J. [[Paper](https://www.nature.com/articles/s42256-022-00534-z#Sec2)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221215%20Pre%20-%20scBERT%20as%20a%20large-scale%20pretrained%20deep%20language%20model%20for%20cell%20type%20annotation%20of%20single-cell%20RNA-seq%20data.pdf)]
-
-* **GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations.** BioRxiv. 2022. Roohani, Y., Huang, K., & Leskovec, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.12.499735v2)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221215%20Pre%20-%20scBERT%20as%20a%20large-scale%20pretrained%20deep%20language%20model%20for%20cell%20type%20annotation%20of%20single-cell%20RNA-seq%20data.pdf)]
 
 * **A multi-use deep learning method for CITE-seq and single-cell RNA-seq data integration with cell surface protein prediction and imputation.** Nature Machine Intelligence. 2022. Lakkis, J., Schroeder, A., Su, K., Lee, M. Y., Bashore, A. C., Reilly, M. P., & Li, M. [[Paper](https://www.nature.com/articles/s42256-022-00545-w)]
 
@@ -123,11 +123,33 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 * **Deep learning of cross-species single-cell landscapes identifies conserved regulatory programs underlying cell types.** Nature Genetics. 2022. Li, Jiaqi, Jingjing Wang, Peijing Zhang, Renying Wang, Yuqing Mei, Zhongyi Sun, Lijiang Fei et al. [[Paper](https://www.nature.com/articles/s41588-022-01197-7)]
 
 
+### 3.2 Perturbation Modeling
+
+#### 3.2.1 Methods
+
+* **GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations.** BioRxiv. 2022. Roohani, Y., Huang, K., & Leskovec, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.12.499735v2)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221215%20Pre%20-%20scBERT%20as%20a%20large-scale%20pretrained%20deep%20language%20model%20for%20cell%20type%20annotation%20of%20single-cell%20RNA-seq%20data.pdf)]
+
+* **Effective gene expression prediction from sequence by integrating long-range interactions.** Nature methods. 2021. Avsec, Ž., Agarwal, V., Visentin, D., Ledsam, J. R., Grabska-Barwinska, A., Taylor, K. R., ... & Kelley, D. R. [[Paper](https://www.nature.com/articles/s41592-021-01252-x)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230126%20Pre%20-%20Effective%20gene%20expression%20prediction%20from%20sequence%20by%20integrating%20long-range%20interactions.pdf)]
+
+* **Compositional perturbation autoencoder for single-cell response modeling.** BioRxiv. 2021. Lotfollahi, M., Susmelj, A. K., Donno, C. D., Ji, Y., Ibarra, I. L., Wolf, F. A., Yakubova, N., Theis, F. J., & Lopez-Paz, D. [[Paper](https://www.biorxiv.org/content/10.1101/2021.04.14.439903v1)]
+
+* **Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution.** ArXiv. 2022. Hetzel, L., Böhm, S., Kilbertus, N., Günnemann, S., Lotfollahi, M., & Theis, F. [[Paper](https://doi.org/10.48550/arXiv.2204.13545)]
+
+* **MultiCPA: Multimodal Compositional Perturbation Autoencoder.** BioRxiv. 2022. Inecik, K., Uhlmann, A., Lotfollahi, M., & Theis, F. [[Paper](https://doi.org/10.1101/2022.07.08.499049)]
+
+* **Machine learning for perturbational single-cell omics. Cell Systems.** Cell Systems. 2021. Ji, Y., Lotfollahi, M., Wolf, F. A., & Theis, F. J. [[Paper](https://doi.org/10.1016/j.cels.2021.05.016)]
+
+* **Learning Single-Cell Perturbation Responses using Neural Optimal Transport.** BioRxiv. 2021. Bunne, C., Stark, S. G., Gut, G., Castillo, J. S. del, Lehmann, K.-V., Pelkmans, L., Krause, A., & Rätsch, G. [[Paper](https://doi.org/10.1101/2021.12.15.472775)]
+
+
+#### 3.2.2 Data
+* **scPerturb: Harmonized Single-Cell Perturbation Data.** bioRxiv. 2023. Peidli, S., Green, T. D., Shen, C., Gross, T., Min, J., Garda, S., Yuan, B., Schumacher, L. J., Taylor-King, J. P., Marks, D. S., Luna, A., Blüthgen, N., & Sander, C. [[Paper](https://doi.org/10.1101/2022.08.20.504663 )]
+
+* **SERGIO: A Single-Cell Expression Simulator Guided by Gene Regulatory Networks.** 2020. Cell Systems. Dibaeinia, P., & Sinha, S. [[Paper](https://doi.org/10.1016/j.cels.2020.08.003)]
+
 
 
 ## 4. Others
-
-<!--
 
 * [Predicting disease-associated mutation of metal-binding sites in proteins using a deep learning approach](https://www.nature.com/articles/s42256-019-0119-z). *Nature Machine Intelligence*. Koohi-Moghadam, M., Wang, H., Wang, Y., Yang, X., Li, H., Wang, J., & Sun, H. (2019). 
 
@@ -165,5 +187,6 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * [Hierarchical deep reinforcement learning reveals a modular mechanism of cell movement](https://www.nature.com/articles/s42256-021-00431-x). *Nature Machine Intelligence*. Wang, Z., Xu, Y., Wang, D., Yang, J., & Bao, Z. (2022). 
 
--->
+* [Structure-guided isoform identification for the human transcriptome](https://doi.org/10.7554/eLife.82556). *ELife*. Sommer, M. J., Cha, S., Varabyou, A., Rincon, N., Park, S., Minkin, I., Pertea, M., Steinegger, M., & Salzberg, S. L. (2022). 
+
 
