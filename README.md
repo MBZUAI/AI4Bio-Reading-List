@@ -9,6 +9,8 @@ This is an AI for Biology reading list maintained by the MBZUAI AI4Bio Group.
   * [1.3 Protein Design](#13-protein-design)
 - [2. Protein Interaction Level](#2-protein-interaction-level)
 - [3. Cell Level](#3-cell-level)
+  * [3.1 Cell Type Annotation](#31-cell-type-annotation)
+  * [3.2 Perturbation Modeling](#32-perturbation-modeling)
 - [4. Others](#4-others)
 
 Note: For applications of diffusion methods in protein science, check [Diffusion reading list](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Diffusion%20reading%20list.md).
