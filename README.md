@@ -52,6 +52,8 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * **Protein function prediction for newly sequenced organisms.** Nature Machine Intelligence. 2021. Torres, M., Yang, H., Romero, A. E., & Paccanaro, A.   [[Paper](https://www.nature.com/articles/s42256-021-00419-7)]
 
+* **Enzyme function prediction using contrastive learning.** Science. 2023. Yu, T., Cui, H., Li, J. C., Luo, Y., Jiang, G., & Zhao, H.    [[Paper](https://www.science.org/doi/10.1126/science.adf2465)]
+
 
 
 
