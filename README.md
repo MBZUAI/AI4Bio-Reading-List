@@ -68,7 +68,7 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * _[2023.03.16 Pre]_ **A universal deep-learning model for zinc finger design enables transcription factor reprogramming.** Nature Biotechnology. 2023. Ichikawa, D. M., Abdin, O., Alerasool, N., Kogenaru, M., Mueller, A. L., Wen, H., ... & Noyes, M. B. [[Paper](https://www.nature.com/articles/s41587-022-01624-4)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230316%20Pre%20-%20A%20universal%20deep-learning%20model%20for%20zinc%20finger%20design%20enables%20transcription%20factor%20reprogramming.pdf)]
 
-
+* _[2023.07.20 Pre]_ **Large language models generate functional protein sequences across diverse families.** Nature Biotechnology. 2023. Madani, A., Krause, B., Greene, E. R., Subramanian, S., Mohr, B. P., Holton, J. M., ... & Naik, N. [[Paper](https://www.nature.com/articles/s41587-022-01618-2)][[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230720%20Pre%20-%20ProGen%20-%20Large%20language%20models%20generate%20functional%20protein%20sequences%20across%20diverse%20families.pdf)]
 
 
 
