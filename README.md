@@ -21,18 +21,18 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 ### 1.1 Protein Structure Prediction
 
-* **Highly accurate protein structure prediction with AlphaFold.** Nature. 2021. Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D. [[Paper](https://www.nature.com/articles/s41586-021-03819-2)] 
+* _[2022.11.17 Pre]_ **Highly accurate protein structure prediction with AlphaFold.** Nature. 2021. Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D. [[Paper](https://www.nature.com/articles/s41586-021-03819-2)] 
 [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221117%20Pre%20-%20Highly%20accurate%20protein%20structure%20prediction%20with%20AlphaFold.pdf)]
 
 * **Accurate prediction of protein structures and interactions using a three-track neural network.** Science. 2021. Baek, M., DiMaio, F., Anishchenko, I., Dauparas, J., Ovchinnikov, S., Lee, G. R., ... & Baker, D. [[Paper](https://www.science.org/doi/abs/10.1126/science.abj8754)]
 
 * **ColabFold: making protein folding accessible to all].** *Nature Methods*. 2022. Mirdita, M., Schütze, K., Moriwaki, Y., Heo, L., Ovchinnikov, S., & Steinegger, M. [[Paper](https://www.nature.com/articles/s41592-022-01488-1)]
 
-* **Language models of protein sequences at the scale of evolution enable accurate structure prediction.** BioRxiv. 2022. Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221201%20Pre%20-%20Language%20models%20of%20protein%20sequences%20at%20the%20scale%20of%20evolution%20enable%20accurate%20structure%20prediction.pdf)]
+* _[2022.12.01 Pre]_ **Language models of protein sequences at the scale of evolution enable accurate structure prediction.** BioRxiv. 2022. Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221201%20Pre%20-%20Language%20models%20of%20protein%20sequences%20at%20the%20scale%20of%20evolution%20enable%20accurate%20structure%20prediction.pdf)]
 
-* **High-resolution de novo structure prediction from primary sequence.** BioRxiv. 2022. Wu, R., Ding, F., Wang, R., Shen, R., Zhang, X., Luo, S., ... & Peng, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1.full.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
+* _[2022.12.08 Pre]_ **High-resolution de novo structure prediction from primary sequence.** BioRxiv. 2022. Wu, R., Ding, F., Wang, R., Shen, R., Zhang, X., Luo, S., ... & Peng, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1.full.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
 
-* **Helixfold-single: Msa-free protein structure prediction by using protein language model as an alternative.** ArXiv. 2022. Fang, X., Wang, F., Liu, L., He, J., Lin, D., Xiang, Y., ... & Song, L. [[Paper](https://arxiv.org/pdf/2207.13921.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
+* _[2022.12.08 Pre]_ **Helixfold-single: Msa-free protein structure prediction by using protein language model as an alternative.** ArXiv. 2022. Fang, X., Wang, F., Liu, L., He, J., Lin, D., Xiang, Y., ... & Song, L. [[Paper](https://arxiv.org/pdf/2207.13921.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
 
 [//]: <* [AmoebaContact and GDFold: a new pipeline for rapid prediction of protein structures](https://arxiv.org/pdf/1905.11640.pdf). *arXiv preprint arXiv:1905.11640*. Mao, W., Ding, W., & Gong, H. (2019).>
 
@@ -52,7 +52,7 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * **Protein function prediction for newly sequenced organisms.** Nature Machine Intelligence. 2021. Torres, M., Yang, H., Romero, A. E., & Paccanaro, A.   [[Paper](https://www.nature.com/articles/s42256-021-00419-7)]
 
-* **Enzyme function prediction using contrastive learning.** Science. 2023. Yu, T., Cui, H., Li, J. C., Luo, Y., Jiang, G., & Zhao, H.    [[Paper](https://www.science.org/doi/10.1126/science.adf2465)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230713%20Pre%20-%20Enzyme%20function%20prediction%20using%20contrastive%20learning.pdf
+* _[2023.07.13 Pre]_ **Enzyme function prediction using contrastive learning.** Science. 2023. Yu, T., Cui, H., Li, J. C., Luo, Y., Jiang, G., & Zhao, H.    [[Paper](https://www.science.org/doi/10.1126/science.adf2465)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230713%20Pre%20-%20Enzyme%20function%20prediction%20using%20contrastive%20learning.pdf
 )]
 
 
@@ -64,9 +64,9 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * **Transformer-based protein generation with regularized latent space optimization.** Nature Machine Intelligence. 2022. Castro, E., Godavarthi, A., Rubinfien, J., Givechian, K., Bhaskar, D., & Krishnaswamy, S. [[Paper](https://www.nature.com/articles/s42256-022-00532-1)]
 
-* **A high-level programming language for generative protein design.** bioRxiv. 2022-12. Hie, B., Candido, S., Lin, Z., Kabeli, O., Rao, R., Smetanin, N., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.abstract)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230112%20Pre%20-%20A%20high-level%20programming%20language%20for%20generative%20protein%20design.pdf)]
+* _[2023.01.12 Pre]_ **A high-level programming language for generative protein design.** bioRxiv. 2022-12. Hie, B., Candido, S., Lin, Z., Kabeli, O., Rao, R., Smetanin, N., ... & Rives, A. [[Paper](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.abstract)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230112%20Pre%20-%20A%20high-level%20programming%20language%20for%20generative%20protein%20design.pdf)]
 
-* **A universal deep-learning model for zinc finger design enables transcription factor reprogramming.** Nature Biotechnology. 2023. Ichikawa, D. M., Abdin, O., Alerasool, N., Kogenaru, M., Mueller, A. L., Wen, H., ... & Noyes, M. B. [[Paper](https://www.nature.com/articles/s41587-022-01624-4)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230316%20Pre%20-%20A%20universal%20deep-learning%20model%20for%20zinc%20finger%20design%20enables%20transcription%20factor%20reprogramming.pdf)]
+* _[2023.03.16 Pre]_ **A universal deep-learning model for zinc finger design enables transcription factor reprogramming.** Nature Biotechnology. 2023. Ichikawa, D. M., Abdin, O., Alerasool, N., Kogenaru, M., Mueller, A. L., Wen, H., ... & Noyes, M. B. [[Paper](https://www.nature.com/articles/s41587-022-01624-4)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230316%20Pre%20-%20A%20universal%20deep-learning%20model%20for%20zinc%20finger%20design%20enables%20transcription%20factor%20reprogramming.pdf)]
 
 
 
@@ -130,9 +130,9 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 #### 3.2.1 Methods
 
-* **GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations.** BioRxiv. 2022. Roohani, Y., Huang, K., & Leskovec, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.12.499735v2)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221215%20Pre%20-%20scBERT%20as%20a%20large-scale%20pretrained%20deep%20language%20model%20for%20cell%20type%20annotation%20of%20single-cell%20RNA-seq%20data.pdf)]
+* _[2022.12.15 Pre]_ **GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations.** BioRxiv. 2022. Roohani, Y., Huang, K., & Leskovec, J. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.12.499735v2)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221215%20Pre%20-%20scBERT%20as%20a%20large-scale%20pretrained%20deep%20language%20model%20for%20cell%20type%20annotation%20of%20single-cell%20RNA-seq%20data.pdf)]
 
-* **Effective gene expression prediction from sequence by integrating long-range interactions.** Nature methods. 2021. Avsec, Ž., Agarwal, V., Visentin, D., Ledsam, J. R., Grabska-Barwinska, A., Taylor, K. R., ... & Kelley, D. R. [[Paper](https://www.nature.com/articles/s41592-021-01252-x)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230126%20Pre%20-%20Effective%20gene%20expression%20prediction%20from%20sequence%20by%20integrating%20long-range%20interactions.pdf)]
+* _[2023.01.26 Pre]_ **Effective gene expression prediction from sequence by integrating long-range interactions.** Nature methods. 2021. Avsec, Ž., Agarwal, V., Visentin, D., Ledsam, J. R., Grabska-Barwinska, A., Taylor, K. R., ... & Kelley, D. R. [[Paper](https://www.nature.com/articles/s41592-021-01252-x)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230126%20Pre%20-%20Effective%20gene%20expression%20prediction%20from%20sequence%20by%20integrating%20long-range%20interactions.pdf)]
 
 * **Compositional perturbation autoencoder for single-cell response modeling.** BioRxiv. 2021. Lotfollahi, M., Susmelj, A. K., Donno, C. D., Ji, Y., Ibarra, I. L., Wolf, F. A., Yakubova, N., Theis, F. J., & Lopez-Paz, D. [[Paper](https://www.biorxiv.org/content/10.1101/2021.04.14.439903v1)]
 
