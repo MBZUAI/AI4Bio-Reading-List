@@ -70,6 +70,8 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * _[2023.07.20 Pre]_ **Large language models generate functional protein sequences across diverse families.** Nature Biotechnology. 2023. Madani, A., Krause, B., Greene, E. R., Subramanian, S., Mohr, B. P., Holton, J. M., ... & Naik, N. [[Paper](https://www.nature.com/articles/s41587-022-01618-2)][[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230720%20Pre%20-%20ProGen%20-%20Large%20language%20models%20generate%20functional%20protein%20sequences%20across%20diverse%20families.pdf)]
 
+* _[2023.08.03 Pre]_ **Top-down design of protein architectures with reinforcement learning** Science. 2023. Lutz, I. D., Wang, S., Norn, C., Courbet, A., Borst, A. J., Zhao, Y. T., ... & Baker, D. [[Paper](https://www.science.org/doi/10.1126/science.adf6591)] [[Slides](https://docs.google.com/presentation/d/1yBlcfmGML50lQuIlFsg2GzoHHy1K69wLForY5RmaZmQ/edit#slide=id.p)]
+
 
 
 ## 2. Protein Interaction Level
