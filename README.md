@@ -156,6 +156,9 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 ## 4. Others
 
+* _[2023.08.24 Pre]_ **The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics** bioRxiv. 2023. Hugo Dalla-Torre, Liam Gonzalez, Javier Mendoza Revilla, Nicolas Lopez Carranza, Adam Henryk Grzywaczewski, Francesco Oteri, Christian Dallago, Evan Trop, Hassan Sirelkhatim, Guillaume Richard, Marcin Skwark, Karim Beguir, Marie Lopez, Thomas Pierrot. [[Paper](https://doi.org/10.1101/2023.01.11.523679)][[Slides]()]
+
+
 * [Predicting disease-associated mutation of metal-binding sites in proteins using a deep learning approach](https://www.nature.com/articles/s42256-019-0119-z). *Nature Machine Intelligence*. Koohi-Moghadam, M., Wang, H., Wang, Y., Yang, X., Li, H., Wang, J., & Sun, H. (2019). 
 
 * [Evaluation of deep learning in non-coding RNA classification](https://www.nature.com/articles/s42256-019-0051-2). *Nature Machine Intelligence*. Amin, N., McGrath, A., & Chen, Y. P. P. (2019).
