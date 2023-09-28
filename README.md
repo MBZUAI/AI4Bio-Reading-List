@@ -34,6 +34,8 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * _[2022.12.08 Pre]_ **Helixfold-single: Msa-free protein structure prediction by using protein language model as an alternative.** ArXiv. 2022. Fang, X., Wang, F., Liu, L., He, J., Lin, D., Xiang, Y., ... & Song, L. [[Paper](https://arxiv.org/pdf/2207.13921.pdf)] [[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20221208%20Pre%20-%20HelixFold_OmegaFold_ESMFold.pdf)]
 
+* _[2023.06.29 Pre]_  **Protein structure prediction with in-cell photo-crosslinking mass spectrometry and deep learning** Nature Biotechnology. 2023. [[Paper](https://www.nature.com/articles/s41587-023-01704-z)] [[Slides]()]
+
 [//]: <* [AmoebaContact and GDFold: a new pipeline for rapid prediction of protein structures](https://arxiv.org/pdf/1905.11640.pdf). *arXiv preprint arXiv:1905.11640*. Mao, W., Ding, W., & Gong, H. (2019).>
 
 [//]: <* [Improved fragment sampling for ab initio protein structure prediction using deep neural networks](https://www.nature.com/articles/s42256-019-0075-7). *Nature Machine Intelligence*. Wang, T., Qiao, Y., Ding, W., Mao, W., Zhou, Y., & Gong, H. (2019).>
