@@ -156,7 +156,9 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 ## 4. Others
 
-* _[2023.08.24 Pre]_ **The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics** bioRxiv. 2023. Hugo Dalla-Torre, Liam Gonzalez, Javier Mendoza Revilla, Nicolas Lopez Carranza, Adam Henryk Grzywaczewski, Francesco Oteri, Christian Dallago, Evan Trop, Hassan Sirelkhatim, Guillaume Richard, Marcin Skwark, Karim Beguir, Marie Lopez, Thomas Pierrot. [[Paper](https://doi.org/10.1101/2023.01.11.523679)][[Slides]()]
+* _[2023.08.24 Pre]_ **The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics** bioRxiv. 2023. Hugo Dalla-Torre, Liam Gonzalez, Javier Mendoza Revilla, Nicolas Lopez Carranza, Adam Henryk Grzywaczewski, Francesco Oteri, Christian Dallago, Evan Trop, Hassan Sirelkhatim, Guillaume Richard, Marcin Skwark, Karim Beguir, Marie Lopez, Thomas Pierrot. [[Paper](https://doi.org/10.1101/2023.01.11.523679)][[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230824%20Pre%20-%20The%20Nucleotide%20Transformer-Building%20and%20Evaluating%20Robust%20Foundation%20Models%20for%20Human%20Genomics.pdf)]
+
+* _[2023.08.31 Pre]_ **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** axiv. 2023. Eric Nguyen, Michael Poli, Marjan Faizi, Armin Thomas, Callum Birch-Sykes, Michael Wornow, Aman Patel, Clayton Rabideau, Stefano Massaroli, Yoshua Bengio, Stefano Ermon, Stephen A. Baccus, Chris Ré. [[Paper](https://arxiv.org/abs/2306.15794)][[Slides](https://github.com/MBZUAI/AI4Bio-Reading-List/blob/main/Presentation%20slides/20230831%20Pre%20-%20HyenaDNA%20-%20Long-Range%20Genomic%20Sequence%20Modeling%20at%20Single%20Nucleotide%20Resolution.pdf)]
 
 
 * [Predicting disease-associated mutation of metal-binding sites in proteins using a deep learning approach](https://www.nature.com/articles/s42256-019-0119-z). *Nature Machine Intelligence*. Koohi-Moghadam, M., Wang, H., Wang, Y., Yang, X., Li, H., Wang, J., & Sun, H. (2019). 
