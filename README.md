@@ -148,6 +148,7 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * **Learning Single-Cell Perturbation Responses using Neural Optimal Transport.** BioRxiv. 2021. Bunne, C., Stark, S. G., Gut, G., Castillo, J. S. del, Lehmann, K.-V., Pelkmans, L., Krause, A., & Rätsch, G. [[Paper](https://doi.org/10.1101/2021.12.15.472775)]
 
+* **Transfer learning enables predictions in network biology.** Nature. 2023. Theodoris, C. V., Xiao, L., Chopra, A., Chaffin, M. D., Al Sayed, Z. R., Hill, M. C., ... & Ellinor, P. T. [[Paper](https://www.nature.com/articles/s41586-023-06139-9)]
 
 #### 3.2.2 Data
 * **scPerturb: Harmonized Single-Cell Perturbation Data.** bioRxiv. 2023. Peidli, S., Green, T. D., Shen, C., Gross, T., Min, J., Garda, S., Yuan, B., Schumacher, L. J., Taylor-King, J. P., Marks, D. S., Luna, A., Blüthgen, N., & Sander, C. [[Paper](https://doi.org/10.1101/2022.08.20.504663 )]
@@ -201,4 +202,4 @@ Note: For applications of diffusion methods in protein science, check [Diffusion
 
 * [Structure-guided isoform identification for the human transcriptome](https://doi.org/10.7554/eLife.82556). *ELife*. Sommer, M. J., Cha, S., Varabyou, A., Rincon, N., Park, S., Minkin, I., Pertea, M., Steinegger, M., & Salzberg, S. L. (2022). 
 
-
+* [DnaBERT-2: Efficient Foundation Model and Benchmark for Multi-Species Genome](https://arxiv.org/abs/2306.15006). *ArXiv*. Zhou, Z., Zhang, Y., Zhang, Y., Zhang, Y., Zhang, Y., Zhang, Y., ... & Zhang, Y. (2022).
